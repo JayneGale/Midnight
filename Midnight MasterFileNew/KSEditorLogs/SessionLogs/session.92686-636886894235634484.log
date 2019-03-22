@@ -1,0 +1,130 @@
+2019-03-20 14:37:24.5767 [DEBUG] Connection attempt timed out. (92686:SceneFusion:SceneFusion)
+2019-03-20 14:37:24.5918 [WARNING] Connection failed: TIMEOUT, retrying...
+2019-03-20 14:37:26.5826 [DEBUG] Connecting to room (92686:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:443
+2019-03-20 14:37:26.7558 [DEBUG] Validating model...
+2019-03-20 14:37:26.9247 [DEBUG] Model updated
+2019-03-20 14:37:26.9247 [DEBUG] Authenticating with server...
+2019-03-20 14:37:27.8906 [DEBUG] Connected to room. (92686:SceneFusion:SceneFusion)
+2019-03-20 14:37:27.8986 [INFO] Connected to server.
+2019-03-20 14:37:27.8986 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-03-20 14:37:27.8996 [DEBUG] Unity Version : 2018.1.4f1
+2019-03-20 14:37:27.8996 [DEBUG] Pro License : False
+2019-03-20 14:37:27.8996 [DEBUG] Platform : WindowsEditor
+2019-03-20 14:37:27.8996 [DEBUG] Build Target : StandaloneWindows64
+2019-03-20 14:37:27.8996 [DEBUG] Scene Fusion version : 1.8.2
+2019-03-20 14:37:27.8996 [DEBUG] Scene Fusion client build : 1
+2019-03-20 14:37:27.8996 [DEBUG] User : kadin.bond@gmail.com
+2019-03-20 14:37:27.8996 [DEBUG] Waiting for server response
+2019-03-20 14:37:27.9985 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-03-20 14:37:27.9985 [DEBUG] User Permissions: FFFFFFFF
+2019-03-20 14:37:28.1875 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-03-20 14:37:28.1875 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-03-20 14:37:28.4793 [DEBUG] Uploading scene 'GreyBoxingTerrain_v020'
+2019-03-20 14:37:28.7292 [DEBUG] Encoding objects for Scenes/GreyBoxingTerrain_v020.unity
+2019-03-20 14:37:29.6607 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-03-20 14:37:41.6807 [DEBUG] Compressing scene data
+2019-03-20 14:37:43.5431 [DEBUG] Spawn request. (Objects: 1632)
+2019-03-20 14:37:43.5511 [DEBUG] Entity RPC. (Id: 1, Size: 42106, Reporting Threshold: 10000)
+2019-03-20 14:37:44.7675 [DEBUG] Loading complete
+2019-03-20 14:40:03.7371 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:40:15.7832 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:40:31.8621 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:40:40.4341 [DEBUG] Spawn request. (Objects: 6)
+2019-03-20 14:40:55.8392 [DEBUG] Spawn request. (Objects: 6)
+2019-03-20 14:41:02.4899 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:41:17.6324 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:41:37.4480 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:42:00.5417 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:42:19.0770 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:42:21.7216 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:42:31.5045 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:42:34.8658 [DEBUG] Spawn request. (Objects: 6)
+2019-03-20 14:42:46.3385 [DEBUG] Spawn request. (Objects: 8)
+2019-03-20 14:42:51.8225 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:43:05.2001 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:43:19.2881 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:43:36.1642 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:43:43.0133 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:43:59.5775 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:44:20.1166 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:44:37.1726 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:44:54.6566 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:45:29.1666 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:46:03.9204 [DEBUG] Spawn request. (Objects: 5)
+2019-03-20 14:46:14.5225 [DEBUG] Disconnecting temporarily to enter play mode.
+2019-03-20 14:46:14.5225 [DEBUG] Disconnecting from room (92686:SceneFusion:SceneFusion)
+2019-03-20 14:46:14.5325 [INFO] Disconnected from server.
+2019-03-20 14:46:14.5325 [DEBUG] Disconnect. (Duration: 526)
+2019-03-20 14:46:14.7794 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2019-03-20 14:46:18.1909 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-20 14:46:18.3288 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-20 14:46:18.5636 [DEBUG] Connecting
+2019-03-20 14:46:18.5856 [DEBUG] Connecting to room (92686:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-03-20 14:46:18.6036 [DEBUG] Host connection. (Session: 92686)
+2019-03-20 14:46:39.6088 [DEBUG] Connection attempt timed out. (92686:SceneFusion:SceneFusion)
+2019-03-20 14:46:39.6218 [WARNING] Connection failed: TIMEOUT, retrying...
+2019-03-20 14:46:41.6067 [DEBUG] Connecting to room (92686:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:443
+2019-03-20 14:46:41.7756 [DEBUG] Validating model...
+2019-03-20 14:46:41.9455 [DEBUG] Model updated
+2019-03-20 14:46:41.9455 [DEBUG] Authenticating with server...
+2019-03-20 14:46:42.2584 [DEBUG] Connected to room. (92686:SceneFusion:SceneFusion)
+2019-03-20 14:46:42.2794 [INFO] Connected to server.
+2019-03-20 14:46:42.2794 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-03-20 14:46:42.2794 [DEBUG] Unity Version : 2018.1.4f1
+2019-03-20 14:46:42.2794 [DEBUG] Pro License : False
+2019-03-20 14:46:42.2794 [DEBUG] Platform : WindowsEditor
+2019-03-20 14:46:42.2794 [DEBUG] Build Target : StandaloneWindows64
+2019-03-20 14:46:42.2794 [DEBUG] Scene Fusion version : 1.8.2
+2019-03-20 14:46:42.2794 [DEBUG] Scene Fusion client build : 1
+2019-03-20 14:46:42.2794 [DEBUG] User : kadin.bond@gmail.com
+2019-03-20 14:46:42.2794 [DEBUG] Waiting for server response
+2019-03-20 14:46:43.9233 [DEBUG] frame size: 50120
+2019-03-20 14:46:43.9333 [DEBUG] Download
+2019-03-20 14:46:45.0392 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-03-20 14:46:45.0402 [DEBUG] User Permissions: FFFFFFFF
+2019-03-20 14:46:45.0842 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-03-20 14:46:45.0842 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-03-20 14:46:45.3151 [DEBUG] Download finished
+2019-03-20 14:46:45.5522 [DEBUG] Loading
+2019-03-20 14:46:46.5311 [DEBUG] Loading complete
+2019-03-20 14:51:32.3483 [DEBUG] Play mode: False
+2019-03-20 14:51:32.8670 [DEBUG] Loading complete
+2019-03-20 14:52:01.6652 [DEBUG] Spawn request. (Objects: 7)
+2019-03-20 14:53:50.0398 [DEBUG] Spawn request. (Objects: 7)
+2019-03-20 14:54:28.5195 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-03-20 14:55:45.1236 [DEBUG] Spawn request. (Objects: 6)
+2019-03-20 14:56:00.7805 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:56:19.5517 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:56:28.6661 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:56:41.3687 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:56:53.3810 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:56:57.0925 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:57:15.8042 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:57:30.6468 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:57:42.5062 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:58:30.1933 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:58:52.9838 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 14:59:21.4026 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:59:25.1189 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 14:59:40.8589 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 15:00:27.9487 [DEBUG] Spawn request. (Objects: 6)
+2019-03-20 15:01:14.4703 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 15:01:43.5035 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 15:02:09.4587 [DEBUG] Spawn request. (Objects: 1)
+2019-03-20 15:02:10.9933 [DEBUG] Spawn request. (Objects: 1)
+2019-03-20 15:02:12.1637 [DEBUG] Spawn request. (Objects: 1)
+2019-03-20 15:04:41.4982 [DEBUG] Spawn request. (Objects: 1)
+2019-03-20 15:05:30.2025 [DEBUG] Spawn request. (Objects: 1)
+2019-03-20 15:05:51.4832 [DEBUG] Spawn request. (Objects: 1)
+2019-03-20 15:06:35.2860 [DEBUG] Spawn request. (Objects: 1)
+2019-03-20 15:07:24.4127 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 15:07:47.8921 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 15:08:21.2168 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 15:08:25.6123 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 15:08:41.8762 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 15:08:55.4002 [DEBUG] Spawn request. (Objects: 4)
+2019-03-20 15:09:05.7509 [DEBUG] Spawn request. (Objects: 9)
+2019-03-20 15:09:09.2672 [DEBUG] Scene Fusion: You reached the 2000 object limit. New objects will not be synced.
+2019-03-20 15:12:09.1307 [DEBUG] Disconnecting from room (92686:SceneFusion:SceneFusion)
+2019-03-20 15:12:09.1347 [INFO] Disconnected from server.
+2019-03-20 15:12:09.1347 [DEBUG] Disconnect. (Duration: -712)

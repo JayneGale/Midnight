@@ -1,0 +1,62 @@
+2019-03-20 13:51:58.6514 [DEBUG] Connection attempt timed out. (92685:SceneFusion:SceneFusion)
+2019-03-20 13:51:58.6593 [WARNING] Connection failed: TIMEOUT, retrying...
+2019-03-20 13:52:00.6497 [DEBUG] Connecting to room (92685:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:443
+2019-03-20 13:52:00.8167 [DEBUG] Validating model...
+2019-03-20 13:52:00.9873 [DEBUG] Model updated
+2019-03-20 13:52:00.9883 [DEBUG] Authenticating with server...
+2019-03-20 13:52:01.5445 [DEBUG] Connected to room. (92685:SceneFusion:SceneFusion)
+2019-03-20 13:52:01.5468 [INFO] Connected to server.
+2019-03-20 13:52:01.5478 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-03-20 13:52:01.5978 [DEBUG] Unity Version : 2018.1.4f1
+2019-03-20 13:52:01.5978 [DEBUG] Pro License : False
+2019-03-20 13:52:01.5978 [DEBUG] Platform : WindowsEditor
+2019-03-20 13:52:01.5978 [DEBUG] Build Target : StandaloneWindows64
+2019-03-20 13:52:01.5978 [DEBUG] Scene Fusion version : 1.8.2
+2019-03-20 13:52:01.5978 [DEBUG] Scene Fusion client build : 1
+2019-03-20 13:52:01.5978 [DEBUG] User : kadin.bond@gmail.com
+2019-03-20 13:52:01.5988 [DEBUG] Waiting for server response
+2019-03-20 13:52:01.6268 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-03-20 13:52:01.6268 [DEBUG] User Permissions: FFFFFFFF
+2019-03-20 13:52:01.8147 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-03-20 13:52:01.8147 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-03-20 13:52:02.0876 [DEBUG] Uploading scene 'GreyBoxingTerrain_v020'
+2019-03-20 13:52:02.3005 [DEBUG] Encoding objects for Scenes/GreyBoxingTerrain_v020.unity
+2019-03-20 13:52:03.2250 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-03-20 13:52:05.1822 [DEBUG] Compressing scene data
+2019-03-20 13:52:06.9530 [DEBUG] Spawn request. (Objects: 1623)
+2019-03-20 13:52:06.9600 [DEBUG] Entity RPC. (Id: 1, Size: 34664, Reporting Threshold: 10000)
+2019-03-20 13:52:08.1189 [DEBUG] Loading complete
+2019-03-20 13:53:57.3130 [DEBUG] Disconnecting temporarily to recompile.
+2019-03-20 13:53:57.3140 [DEBUG] Disconnecting from room (92685:SceneFusion:SceneFusion)
+2019-03-20 13:53:57.3230 [INFO] Disconnected from server.
+2019-03-20 13:53:57.3240 [DEBUG] Disconnect. (Duration: 112)
+2019-03-20 13:54:00.7542 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-20 13:54:01.0678 [INFO] Component 'DogBarking' is different from the server. Components of this type will not sync.
+2019-03-20 13:54:01.2537 [DEBUG] Connecting
+2019-03-20 13:54:01.2747 [DEBUG] Connecting to room (92685:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-03-20 13:54:01.2807 [DEBUG] Host connection. (Session: 92685)
+2019-03-20 13:54:22.2859 [DEBUG] Connection attempt timed out. (92685:SceneFusion:SceneFusion)
+2019-03-20 13:54:22.2950 [WARNING] Connection failed: TIMEOUT, retrying...
+2019-03-20 13:54:24.2871 [DEBUG] Connecting to room (92685:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:443
+2019-03-20 13:54:24.4538 [DEBUG] Validating model...
+2019-03-20 13:54:24.6231 [DEBUG] Model updated
+2019-03-20 13:54:24.6241 [DEBUG] Authenticating with server...
+2019-03-20 13:54:24.9231 [DEBUG] Connected to room. (92685:SceneFusion:SceneFusion)
+2019-03-20 13:54:24.9251 [INFO] Connected to server.
+2019-03-20 13:54:24.9251 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-03-20 13:54:24.9251 [DEBUG] Unity Version : 2018.1.4f1
+2019-03-20 13:54:24.9261 [DEBUG] Pro License : False
+2019-03-20 13:54:24.9261 [DEBUG] Platform : WindowsEditor
+2019-03-20 13:54:24.9261 [DEBUG] Build Target : StandaloneWindows64
+2019-03-20 13:54:24.9261 [DEBUG] Scene Fusion version : 1.8.2
+2019-03-20 13:54:24.9261 [DEBUG] Scene Fusion client build : 1
+2019-03-20 13:54:24.9261 [DEBUG] User : kadin.bond@gmail.com
+2019-03-20 13:54:24.9261 [DEBUG] Waiting for server response
+2019-03-20 13:54:26.7062 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-03-20 13:54:26.7062 [DEBUG] User Permissions: FFFFFFFF
+2019-03-20 13:54:26.7532 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-03-20 13:54:26.7532 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-03-20 13:54:28.4004 [DEBUG] Loading complete
+2019-03-20 13:55:08.1109 [DEBUG] Disconnecting from room (92685:SceneFusion:SceneFusion)
+2019-03-20 13:55:08.1149 [INFO] Disconnected from server.
+2019-03-20 13:55:08.1149 [DEBUG] Disconnect. (Duration: 186)

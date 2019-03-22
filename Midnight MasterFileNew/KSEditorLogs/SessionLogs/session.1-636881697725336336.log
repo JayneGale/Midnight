@@ -1,0 +1,8 @@
+2019-03-14 14:16:13.5361 [DEBUG] Connection failed. (1::)
+2019-03-14 14:16:13.5586 [WARNING] Connection failed: REFUSED, retrying...
+2019-03-14 14:16:15.5425 [DEBUG] Connecting to room (1::) via TCP at :8000
+2019-03-14 14:16:16.5500 [DEBUG] Connection failed. (1::)
+2019-03-14 14:16:16.5614 [WARNING] Connection failed: REFUSED, retrying...
+2019-03-14 14:16:18.5407 [DEBUG] Connecting to room (1::) via TCP at :8000
+2019-03-14 14:16:19.5455 [DEBUG] Connection failed. (1::)
+2019-03-14 14:16:19.5508 [ERROR] Connection failed: REFUSED

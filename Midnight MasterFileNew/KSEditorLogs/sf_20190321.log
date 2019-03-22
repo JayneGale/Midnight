@@ -1,0 +1,50 @@
+2019-03-21 11:50:18.6087 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 11:50:26.1502 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 11:55:41.6788 [DEBUG] Invalid token sent as part of a web request token. Token = iZtgDm2rf4o8hol9bFb7uKOwwOrHZPtbPHWnIOUGop20k7Tj5hKrsSh5tDw6KX2iTeWbbG7ADKsmsu5B3xgj2hL5MgPcn9mDb3l9eUWdEkbnGFuu7iZNRMfmIoMJbXXtPa6HcLgZQFCXqhlfoiTxXNTH0Iim7hC6obU0sHKfD6LmfhJABxdyicAnmJSGLTaMC89iCHp630KB2Yzz7TZLomR8X6kQjCu1EUc43cm6oZhpwkABU6Mgdm0iUrZwiqA
+2019-03-21 12:03:41.6518 [INFO] Launching Session: GreyBoxingTerrain_v022
+2019-03-21 12:03:42.5694 [DEBUG] Connecting
+2019-03-21 12:03:42.5884 [DEBUG] Connecting to room (92730:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-03-21 13:37:30.3085 [DEBUG] Sent D:/845862855/Desktop/Midnight MasterFileNew/KSEditorLogs/SessionLogs/session.92730-636887666226336247.log
+2019-03-21 13:37:49.4257 [DEBUG] Play mode: False
+2019-03-21 13:38:02.2975 [INFO] Launching Session: GreyBoxingTerrain_v022
+2019-03-21 13:38:03.1424 [DEBUG] Connecting
+2019-03-21 13:38:03.1474 [DEBUG] Connecting to room (92732:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-03-21 13:53:30.2863 [DEBUG] Sent D:/845862855/Desktop/Midnight MasterFileNew/KSEditorLogs/SessionLogs/session.92732-636887722831504070.log
+2019-03-21 13:56:36.5017 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 13:57:16.7365 [INFO] Launching Session: GreyBoxingTerrain_v022
+2019-03-21 13:57:17.5631 [DEBUG] Connecting
+2019-03-21 13:57:17.5831 [DEBUG] Connecting to room (92733:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-03-21 14:54:41.1468 [DEBUG] Sent D:/845862855/Desktop/Midnight MasterFileNew/KSEditorLogs/SessionLogs/session.92733-636887734376001530.log
+2019-03-21 14:55:45.2027 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 14:55:45.3167 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 14:55:51.0288 [DEBUG] Play mode: False
+2019-03-21 14:55:57.0117 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 14:55:57.1206 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 14:56:17.7823 [DEBUG] Play mode: False
+2019-03-21 14:57:44.3022 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 14:57:44.4201 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 14:57:51.6871 [DEBUG] Play mode: False
+2019-03-21 14:58:03.5213 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 14:58:03.6472 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 14:58:22.2100 [DEBUG] Play mode: False
+2019-03-21 14:58:33.6376 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 14:58:33.7596 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 14:58:40.0376 [DEBUG] Play mode: False
+2019-03-21 14:59:16.3411 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 14:59:16.4470 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 14:59:40.8241 [DEBUG] Play mode: False
+2019-03-21 15:05:56.2432 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 15:05:56.3541 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 15:06:07.1842 [DEBUG] Play mode: False
+2019-03-21 15:06:47.4725 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 15:06:47.6034 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 15:06:56.4095 [DEBUG] Play mode: False
+2019-03-21 15:08:16.6927 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 15:08:16.8176 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 15:08:20.6180 [DEBUG] Play mode: False
+2019-03-21 15:08:29.7264 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-21 15:08:29.8453 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-21 15:08:35.3623 [DEBUG] Play mode: False
+2019-03-21 15:08:57.7366 [INFO] Launching Session: GreyBoxingTerrain_v023
+2019-03-21 15:08:58.6108 [DEBUG] Connecting
+2019-03-21 15:08:58.6338 [DEBUG] Connecting to room (92735:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312

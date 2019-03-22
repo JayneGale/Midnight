@@ -1,0 +1,29 @@
+2019-03-14 14:16:54.8204 [DEBUG] Connection attempt timed out. (92383:SceneFusion:SceneFusion)
+2019-03-14 14:16:54.8264 [WARNING] Connection failed: TIMEOUT, retrying...
+2019-03-14 14:16:56.7994 [DEBUG] Connecting to room (92383:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:443
+2019-03-14 14:16:56.9662 [DEBUG] Validating model...
+2019-03-14 14:16:57.1349 [DEBUG] Model updated
+2019-03-14 14:16:57.1349 [DEBUG] Authenticating with server...
+2019-03-14 14:16:57.6549 [DEBUG] Connected to room. (92383:SceneFusion:SceneFusion)
+2019-03-14 14:16:57.6837 [INFO] Connected to server.
+2019-03-14 14:16:57.6837 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-03-14 14:16:57.6837 [DEBUG] Unity Version : 2018.1.4f1
+2019-03-14 14:16:57.6837 [DEBUG] Pro License : False
+2019-03-14 14:16:57.6837 [DEBUG] Platform : WindowsEditor
+2019-03-14 14:16:57.6837 [DEBUG] Build Target : StandaloneWindows64
+2019-03-14 14:16:57.6837 [DEBUG] Scene Fusion version : 1.8.2
+2019-03-14 14:16:57.6837 [DEBUG] Scene Fusion client build : 1
+2019-03-14 14:16:57.6849 [DEBUG] User : kadin.bond@gmail.com
+2019-03-14 14:16:57.6849 [DEBUG] Waiting for server response
+2019-03-14 14:16:57.7717 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-03-14 14:16:57.7717 [DEBUG] User Permissions: FFFFFFFF
+2019-03-14 14:16:57.9627 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-03-14 14:16:57.9627 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-03-14 14:16:58.2505 [DEBUG] Uploading scene 'GreyBoxingTerrain_v012'
+2019-03-14 14:16:58.6533 [DEBUG] Compressing scene data
+2019-03-14 14:16:59.3428 [DEBUG] Spawn request. (Objects: 416)
+2019-03-14 14:16:59.3468 [DEBUG] Entity RPC. (Id: 1, Size: 16563, Reporting Threshold: 10000)
+2019-03-14 14:17:00.0535 [DEBUG] Loading complete
+2019-03-14 14:23:36.5928 [DEBUG] Disconnecting from room (92383:SceneFusion:SceneFusion)
+2019-03-14 14:23:36.5958 [INFO] Disconnected from server.
+2019-03-14 14:23:36.5958 [DEBUG] Disconnect. (Duration: 398)

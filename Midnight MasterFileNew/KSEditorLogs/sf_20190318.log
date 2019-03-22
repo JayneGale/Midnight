@@ -1,0 +1,84 @@
+2019-03-18 12:24:57.8720 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 12:25:05.4025 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 12:32:37.5123 [INFO] Launching Session: GreyBoxingTerrain_v017
+2019-03-18 12:32:38.3578 [DEBUG] Connecting
+2019-03-18 12:32:38.3828 [DEBUG] Connecting to room (92580:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-03-18 13:06:27.4018 [DEBUG] Sent D:/845862855/Desktop/Midnight MasterFileNew/KSEditorLogs/SessionLogs/session.92580-636885091586148395.log
+2019-03-18 13:17:53.9785 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 13:17:54.1114 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 13:19:23.5138 [DEBUG] Play mode: False
+2019-03-18 13:24:51.1386 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 13:24:51.2485 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 13:26:45.0712 [DEBUG] Play mode: False
+2019-03-18 13:26:58.0095 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 13:26:58.1215 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 13:26:59.3528 [DEBUG] Play mode: False
+2019-03-18 13:27:08.5179 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 13:27:08.6352 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 13:28:50.0381 [DEBUG] Play mode: False
+2019-03-18 14:05:52.7543 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 14:05:52.8552 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 14:06:16.7058 [DEBUG] Play mode: False
+2019-03-18 14:34:05.9596 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 14:34:06.0745 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 14:34:50.0218 [DEBUG] Play mode: False
+2019-03-18 14:43:35.0076 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 14:43:35.1166 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 14:54:17.7610 [DEBUG] Play mode: False
+2019-03-18 14:55:07.8344 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 14:55:07.9394 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 14:55:09.9873 [DEBUG] Play mode: False
+2019-03-18 14:55:25.0373 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 14:55:25.1272 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-18 14:56:46.7463 [DEBUG] Play mode: False
+2019-03-18 15:36:12.5399 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:36:20.2506 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:38:11.6309 [DEBUG] Web request login error: Invalid credentials
+2019-03-18 15:43:09.9789 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:49:49.3989 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:49:49.5219 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 15:50:06.1331 [DEBUG] Play mode: False
+2019-03-18 15:52:30.2385 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:52:30.3545 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 15:52:45.4540 [DEBUG] Play mode: False
+2019-03-18 15:53:03.6427 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:53:03.7686 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 15:53:24.4989 [DEBUG] Play mode: False
+2019-03-18 15:53:49.2805 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:53:49.4035 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 15:54:02.1654 [DEBUG] Play mode: False
+2019-03-18 15:54:17.6373 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:54:17.7523 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 15:55:25.1158 [DEBUG] Play mode: False
+2019-03-18 15:57:42.5445 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:57:42.6887 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 15:57:54.1432 [DEBUG] Play mode: False
+2019-03-18 15:58:24.0629 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:59:34.5193 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 15:59:34.6322 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 15:59:52.7054 [DEBUG] Play mode: False
+2019-03-18 16:05:06.2360 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:05:06.3569 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:05:23.3466 [DEBUG] Play mode: False
+2019-03-18 16:11:56.1174 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:11:56.2393 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:12:18.0263 [DEBUG] Play mode: False
+2019-03-18 16:12:55.9590 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:12:56.0809 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:13:15.1033 [DEBUG] Play mode: False
+2019-03-18 16:17:56.4344 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:17:56.5533 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:18:22.8531 [DEBUG] Play mode: False
+2019-03-18 16:19:04.8067 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:19:04.9436 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:19:10.7791 [DEBUG] Play mode: False
+2019-03-18 16:19:37.4811 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:19:37.5970 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:20:02.9127 [DEBUG] Play mode: False
+2019-03-18 16:20:10.7789 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:20:10.9038 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:21:22.3828 [DEBUG] Play mode: False
+2019-03-18 16:22:24.4586 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:23:58.7761 [DEBUG] Scene Fusion version 1.8.2-1
+2019-03-18 16:23:58.8791 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-18 16:24:48.8036 [DEBUG] Play mode: False
