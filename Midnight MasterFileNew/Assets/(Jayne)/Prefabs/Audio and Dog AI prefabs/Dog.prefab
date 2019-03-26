@@ -23,8 +23,8 @@ GameObject:
   - component: {fileID: 23688690533356764}
   - component: {fileID: 65509832735291462}
   - component: {fileID: 114021991918459422}
-  - component: {fileID: 114026967439604434}
   - component: {fileID: 82587261749266412}
+  - component: {fileID: 114780931511827574}
   - component: {fileID: 195006285750918984}
   - component: {fileID: 54966825273692484}
   - component: {fileID: 114334438014033836}
@@ -63,7 +63,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 737c1ebfb50f33b49abd7d3e723e124b, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -126,18 +126,18 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 84eb21b0c60c6cc4192734b3f93db4ca, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e655003c204c04241a87dfe7290bb6ca, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.4
   m_Pitch: 0.96
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 39
-  DopplerLevel: 3.92
-  MinDistance: 1.3448267
-  MaxDistance: 120
+  DopplerLevel: 2.97
+  MinDistance: 0.2
+  MaxDistance: 80
   Pan2D: 0
   rolloffMode: 2
   BypassEffects: 0
@@ -147,40 +147,49 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0.061670944
-      value: 1
-      inSlope: -0.019691095
-      outSlope: -0.019691095
+      time: 0.017974854
+      value: 0.98799044
+      inSlope: -2.272689
+      outSlope: -2.272689
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
-      outWeight: 0.3046849
+      inWeight: 0.4099195
+      outWeight: 0.068459496
     - serializedVersion: 3
-      time: 0.2854589
-      value: 0.78572845
-      inSlope: -1.9252017
-      outSlope: -1.9252017
+      time: 0.081983134
+      value: 0.49957025
+      inSlope: -3.439108
+      outSlope: -3.439108
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.41724256
-      outWeight: 0.5943822
+      inWeight: 0.40553758
+      outWeight: 0.33333334
     - serializedVersion: 3
-      time: 0.536822
-      value: 0.23138428
-      inSlope: -1.2372558
-      outSlope: -1.2372558
+      time: 0.19278416
+      value: 0.3257798
+      inSlope: -0.47497815
+      outSlope: -0.47497815
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.21135677
-      outWeight: 0.16595033
+      inWeight: 0.33333334
+      outWeight: 0.08893425
+    - serializedVersion: 3
+      time: 0.8053811
+      value: 0.23599613
+      inSlope: -0.0969027
+      outSlope: -0.0969027
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.08074459
+      outWeight: 0.30049053
     - serializedVersion: 3
       time: 1
-      value: 0
-      inSlope: -0.0253433
-      outSlope: -0.0253433
+      value: 0.21789551
+      inSlope: -0.06420125
+      outSlope: -0.06420125
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.2764279
+      inWeight: 0.4407523
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -190,7 +199,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 0.9863281
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -245,33 +254,9 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
   startWayPointIndex: 0
   dogRunClip: {fileID: 8300000, guid: e655003c204c04241a87dfe7290bb6ca, type: 3}
---- !u!114 &114026967439604434
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1380754370075880}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b93a2ce16a49cf04bb5137bd1b4ce1f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  barkClips:
-  - {fileID: 8300000, guid: ea35c4ef6171aca4da04769c75dbae96, type: 3}
-  - {fileID: 8300000, guid: e6e4566be01e4aa45b04b006bd0a1d66, type: 3}
-  - {fileID: 8300000, guid: 05305de0923b13f49933055f68d82087, type: 3}
-  - {fileID: 8300000, guid: 884f40da84c3bed4199ebc3e71be87e0, type: 3}
-  - {fileID: 8300000, guid: 5273ba29c4d024d449fb63f284bde0f4, type: 3}
-  - {fileID: 8300000, guid: 4d7321c3c3b3c9247a78179e9ca0853a, type: 3}
-  - {fileID: 8300000, guid: 92922570429dc154f8bd528523ec2439, type: 3}
-  maxTimeToBarkBout: 12
-  minTimeToBarkBout: 6
-  minNumOfBarks: 4
-  maxNumOfBarks: 6
-  maxBarkRest: 0.8
-  minBarkRest: 0.5
 --- !u!114 &114334438014033836
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -284,6 +269,33 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RoomSize: 3
+--- !u!114 &114780931511827574
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1380754370075880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a1b9b52d69a94442a23477eb5c7c718, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newBarkClips:
+  - {fileID: 8300000, guid: ea35c4ef6171aca4da04769c75dbae96, type: 3}
+  - {fileID: 8300000, guid: e6e4566be01e4aa45b04b006bd0a1d66, type: 3}
+  - {fileID: 8300000, guid: 05305de0923b13f49933055f68d82087, type: 3}
+  - {fileID: 8300000, guid: 884f40da84c3bed4199ebc3e71be87e0, type: 3}
+  - {fileID: 8300000, guid: 5273ba29c4d024d449fb63f284bde0f4, type: 3}
+  - {fileID: 8300000, guid: 4d7321c3c3b3c9247a78179e9ca0853a, type: 3}
+  - {fileID: 8300000, guid: 92922570429dc154f8bd528523ec2439, type: 3}
+  - {fileID: 8300000, guid: 5273ba29c4d024d449fb63f284bde0f4, type: 3}
+  - {fileID: 8300000, guid: 4d7321c3c3b3c9247a78179e9ca0853a, type: 3}
+  minTimeToBarking: 16
+  maxTimeToBarking: 32
+  minBarkGap: 1
+  maxBarkGap: 2
+  minNumBarks: 1
+  maxNumBarks: 5
 --- !u!195 &195006285750918984
 NavMeshAgent:
   m_ObjectHideFlags: 1
@@ -300,7 +312,7 @@ NavMeshAgent:
   m_StoppingDistance: 0
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 0
-  m_AutoRepath: 0
+  m_AutoRepath: 1
   m_Height: 1
   m_BaseOffset: 0.5
   m_WalkableMask: 4294967295
